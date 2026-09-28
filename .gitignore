@@ -1,0 +1,21 @@
+# build outputs
+build/
+obj_dir/
+# Vivado / XSim
+xsim.dir/
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+.Xil/
+webtalk*
+# Verilator
+*.vcd
+*.fst
+# editors / OS
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+__pycache__/
