@@ -1,4 +1,4 @@
-# PCIe Gen1 x1 Endpoint — from scratch in SystemVerilog
+# PCIe Gen1 x1 Endpoint — from scratch in SystemVerilog using Claude Opus 5.5
 
 A PCI Express **Gen1 (2.5 GT/s), x1** endpoint where every layer is written in RTL. No vendor PCIe hard block or IP is used:
 
